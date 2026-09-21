@@ -6,3 +6,4 @@ Day 2 – Connecting Devices: Practiced connecting network devices in Cisco Pack
 Day 3 – OSI Model: Examined network traffic in Cisco Packet Tracer to understand how data moves through the OSI model. Practiced identifying how protocols and protocol data units operate across different network layers.
 Day 4 – Basic Device Security: Practiced using the Cisco IOS command-line interface (CLI) to navigate between user EXEC, privileged EXEC, and global configuration modes. Configured enable password and enable secret, enabled password encryption, viewed running and startup configurations, and saved configuration changes.
 Day 5 – Ethernet LAN Switching: Learned how switches use MAC addresses and MAC address tables to forward Ethernet frames across a network.
+Day 6 – Ethernet LAN Switching (Part 2): Practiced using ARP, ping, and MAC address tables to understand how switches learn and forward Ethernet frames.
