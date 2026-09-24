@@ -8,3 +8,4 @@ Day 4 – Basic Device Security: Practiced using the Cisco IOS command-line inte
 Day 5 – Ethernet LAN Switching: Learned how switches use MAC addresses and MAC address tables to forward Ethernet frames across a network.
 Day 6 – Ethernet LAN Switching (Part 2): Practiced using ARP, ping, and MAC address tables to understand how switches learn and forward Ethernet frames.
 Day 7 – IPv4 Addressing: Learned how IPv4 addresses are structured and practiced identifying network and host portions using subnet masks.
+Day 8 – IPv4 Addressing (Part 2): Practiced configuring IPv4 addresses on Cisco devices and verifying network connectivity with commands like ping.
