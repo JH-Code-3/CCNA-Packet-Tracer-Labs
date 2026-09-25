@@ -9,3 +9,4 @@ Day 5 – Ethernet LAN Switching: Learned how switches use MAC addresses and MAC
 Day 6 – Ethernet LAN Switching (Part 2): Practiced using ARP, ping, and MAC address tables to understand how switches learn and forward Ethernet frames.
 Day 7 – IPv4 Addressing: Learned how IPv4 addresses are structured and practiced identifying network and host portions using subnet masks.
 Day 8 – IPv4 Addressing (Part 2): Practiced configuring IPv4 addresses on Cisco devices and verifying network connectivity with commands like ping.
+Day 9 – Switch Interfaces: Practiced configuring switch interfaces, including interface speed and duplex settings, and verifying interface status with Cisco IOS commands.
