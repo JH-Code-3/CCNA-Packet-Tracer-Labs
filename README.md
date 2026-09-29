@@ -13,3 +13,4 @@ Day 9 – Switch Interfaces: Practiced configuring switch interfaces, including 
 Day 10 - IPv4 Header: Learned the main fields of the IPv4 header and how they help routers process and deliver packets across a network. 
 Day 11 – Static Routing (Parts 1 & 2): Learned how routers use routing tables and practiced configuring static routes to connect different networks and verify end-to-end connectivity.
 Day 12 – Life of a Packet: Learned how a packet travels across a network using ARP, MAC addresses, routing, encapsulation, and de-encapsulation.
+Day 13 – Subnetting: Practiced dividing IPv4 networks into smaller subnets and calculating network addresses, broadcast addresses, and usable host ranges.
