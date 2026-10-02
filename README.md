@@ -16,3 +16,4 @@ Day 12 – Life of a Packet: Learned how a packet travels across a network using
 Day 13 – Subnetting: Practiced dividing IPv4 networks into smaller subnets and calculating network addresses, broadcast addresses, and usable host ranges.
 Day 14 – Subnetting (Part 2): Practiced subnetting larger IPv4 networks, with a focus on Class B subnetting and calculating subnet ranges and usable hosts.
 Day 15 – VLSM: Practiced using Variable Length Subnet Masking to divide a network into different-sized subnets based on host requirements.
+Day 16 – VLANs: Practiced creating VLANs on switches, assigning switch ports to VLANs, and verifying VLAN membership with Cisco IOS commands. 
