@@ -18,3 +18,4 @@ Day 14 – Subnetting (Part 2): Practiced subnetting larger IPv4 networks, with 
 Day 15 – VLSM: Practiced using Variable Length Subnet Masking to divide a network into different-sized subnets based on host requirements.
 Day 16 – VLANs: Practiced creating VLANs on switches, assigning switch ports to VLANs, and verifying VLAN membership with Cisco IOS commands. 
 Day 17 – VLANs (Part 2): Practiced configuring trunk ports and using 802.1Q tagging to carry traffic from multiple VLANs between switches.
+Day 18 – Inter-VLAN Routing: Practiced configuring router-on-a-stick and subinterfaces so devices in different VLANs can communicate with each other.
