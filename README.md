@@ -19,3 +19,4 @@ Day 15 – VLSM: Practiced using Variable Length Subnet Masking to divide a netw
 Day 16 – VLANs: Practiced creating VLANs on switches, assigning switch ports to VLANs, and verifying VLAN membership with Cisco IOS commands. 
 Day 17 – VLANs (Part 2): Practiced configuring trunk ports and using 802.1Q tagging to carry traffic from multiple VLANs between switches.
 Day 18 – Inter-VLAN Routing: Practiced configuring router-on-a-stick and subinterfaces so devices in different VLANs can communicate with each other.
+Day 19 – Inter-VLAN Routing (Part 2): Practiced configuring Layer 3 switching and SVIs to route traffic between VLANs without using an external router.
