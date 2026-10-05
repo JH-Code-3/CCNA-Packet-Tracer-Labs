@@ -20,3 +20,4 @@ Day 16 – VLANs: Practiced creating VLANs on switches, assigning switch ports t
 Day 17 – VLANs (Part 2): Practiced configuring trunk ports and using 802.1Q tagging to carry traffic from multiple VLANs between switches.
 Day 18 – Inter-VLAN Routing: Practiced configuring router-on-a-stick and subinterfaces so devices in different VLANs can communicate with each other.
 Day 19 – Inter-VLAN Routing (Part 2): Practiced configuring Layer 3 switching and SVIs to route traffic between VLANs without using an external router.
+Day 20 – Spanning Tree Protocol (STP): Practiced identifying the root bridge, root ports, designated ports, and blocked ports to understand how STP prevents Layer 2 loops.
