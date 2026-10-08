@@ -22,3 +22,4 @@ Day 18 – Inter-VLAN Routing: Practiced configuring router-on-a-stick and subin
 Day 19 – Inter-VLAN Routing (Part 2): Practiced configuring Layer 3 switching and SVIs to route traffic between VLANs without using an external router.
 Day 20 – Spanning Tree Protocol (STP): Practiced identifying the root bridge, root ports, designated ports, and blocked ports to understand how STP prevents Layer 2 loops.
 Day 21 – Rapid Spanning Tree Protocol (Parts 1 & 2): Learned how RSTP improves STP with faster convergence, and practiced concepts like PortFast, BPDU Guard, and BPDU Filter to control how switch ports participate in spanning tree.
+Day 21 – RSTP (Parts 3 & 4): Practiced identifying RSTP port roles and states, understanding alternate and backup ports, and seeing how RSTP reacts to topology changes and restores connectivity faster than traditional STP. 
