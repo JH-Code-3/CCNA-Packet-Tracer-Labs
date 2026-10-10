@@ -24,3 +24,4 @@ Day 20 – Spanning Tree Protocol (STP): Practiced identifying the root bridge, 
 Day 21 – Rapid Spanning Tree Protocol (Parts 1 & 2): Learned how RSTP improves STP with faster convergence, and practiced concepts like PortFast, BPDU Guard, and BPDU Filter to control how switch ports participate in spanning tree.
 Day 21 – RSTP (Parts 3 & 4): Practiced identifying RSTP port roles and states, understanding alternate and backup ports, and seeing how RSTP reacts to topology changes and restores connectivity faster than traditional STP. 
 Day 22 – Rapid Spanning Tree Protocol (RSTP): Practiced how RSTP uses alternate port roles and faster state transitions to recover from topology changes more quickly than traditional STP.
+Day 23 – EtherChannel: Practiced bundling multiple physical switch links into one logical EtherChannel using LACP or PAgP to increase bandwidth and provide redundancy.
