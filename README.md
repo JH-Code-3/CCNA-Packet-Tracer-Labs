@@ -25,3 +25,4 @@ Day 21 – Rapid Spanning Tree Protocol (Parts 1 & 2): Learned how RSTP improves
 Day 21 – RSTP (Parts 3 & 4): Practiced identifying RSTP port roles and states, understanding alternate and backup ports, and seeing how RSTP reacts to topology changes and restores connectivity faster than traditional STP. 
 Day 22 – Rapid Spanning Tree Protocol (RSTP): Practiced how RSTP uses alternate port roles and faster state transitions to recover from topology changes more quickly than traditional STP.
 Day 23 – EtherChannel: Practiced bundling multiple physical switch links into one logical EtherChannel using LACP or PAgP to increase bandwidth and provide redundancy.
+Day 24 – Dynamic Routing: Practiced how routers learn routes dynamically and update their routing tables instead of relying only on manually configured static routes.
