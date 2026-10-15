@@ -27,3 +27,4 @@ Day 22 – Rapid Spanning Tree Protocol (RSTP): Practiced how RSTP uses alternat
 Day 23 – EtherChannel: Practiced bundling multiple physical switch links into one logical EtherChannel using LACP or PAgP to increase bandwidth and provide redundancy.
 Day 24 – Dynamic Routing: Practiced how routers learn routes dynamically and update their routing tables instead of relying only on manually configured static routes.
 Day 25 – RIP & EIGRP: Learned how RIP and EIGRP dynamically share routing information and practiced configuring EIGRP, including network statements and verifying learned routes.
+Day 26 – OSPF (Part 1): Practiced configuring single-area OSPF, advertising networks, forming neighbor relationships, and verifying dynamically learned routes.
