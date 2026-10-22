@@ -30,3 +30,4 @@ Day 25 – RIP & EIGRP: Learned how RIP and EIGRP dynamically share routing info
 Day 26 – OSPF (Part 1): Practiced configuring single-area OSPF, advertising networks, forming neighbor relationships, and verifying dynamically learned routes.
 Day 27 – OSPF (Part 2): Practiced OSPF neighbor relationships, router IDs, DR/BDR elections, and verifying OSPF routes and adjacencies.
 Day 28 – OSPF (Part 3): Practiced configuring OSPF interface settings, passive interfaces, and default route advertisement while verifying OSPF neighbors and learned routes.
+Day 29 – First Hop Redundancy Protocols: Learned how FHRPs provide default gateway redundancy and practiced configuring HSRP with active and standby routers for failover.
