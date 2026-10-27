@@ -32,3 +32,4 @@ Day 27 – OSPF (Part 2): Practiced OSPF neighbor relationships, router IDs, DR/
 Day 28 – OSPF (Part 3): Practiced configuring OSPF interface settings, passive interfaces, and default route advertisement while verifying OSPF neighbors and learned routes.
 Day 29 – First Hop Redundancy Protocols: Learned how FHRPs provide default gateway redundancy and practiced configuring HSRP with active and standby routers for failover.
 Day 30 – TCP & UDP: Learned how TCP and UDP operate at Layer 4, including port numbers, TCP connection establishment, sequencing, acknowledgments, flow control, and the differences between TCP and UDP.
+Day 31 – IPv6 (Part 1): Learned IPv6 address structure and practiced abbreviating, expanding, identifying prefixes, and configuring IPv6 addresses on Cisco devices.
