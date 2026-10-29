@@ -35,3 +35,4 @@ Day 30 – TCP & UDP: Learned how TCP and UDP operate at Layer 4, including port
 Day 31 – IPv6 (Part 1): Learned IPv6 address structure and practiced abbreviating, expanding, identifying prefixes, and configuring IPv6 addresses on Cisco devices.
 Day 32 – IPv6 (Part 2): Practiced configuring IPv6 addresses and learned about link-local addresses, SLAAC, and how devices automatically obtain IPv6 addressing information.
 Day 33 – IPv6 (Part 3): Practiced IPv6 static routing, Neighbor Discovery, SLAAC, and using link-local addresses as next hops.
+Day 34 – Standard ACLs: Practiced configuring standard IPv4 access control lists to permit or deny traffic based on source IP addresses and applying ACLs to router interfaces.
