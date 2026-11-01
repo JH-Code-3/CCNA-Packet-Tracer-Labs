@@ -36,3 +36,4 @@ Day 31 – IPv6 (Part 1): Learned IPv6 address structure and practiced abbreviat
 Day 32 – IPv6 (Part 2): Practiced configuring IPv6 addresses and learned about link-local addresses, SLAAC, and how devices automatically obtain IPv6 addressing information.
 Day 33 – IPv6 (Part 3): Practiced IPv6 static routing, Neighbor Discovery, SLAAC, and using link-local addresses as next hops.
 Day 34 – Standard ACLs: Practiced configuring standard IPv4 access control lists to permit or deny traffic based on source IP addresses and applying ACLs to router interfaces.
+Day 35 – Extended ACLs: Practiced configuring extended IPv4 access control lists to filter traffic by source, destination, protocol, and port number, then applying them to router interfaces.
