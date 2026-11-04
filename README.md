@@ -38,3 +38,4 @@ Day 33 – IPv6 (Part 3): Practiced IPv6 static routing, Neighbor Discovery, SLA
 Day 34 – Standard ACLs: Practiced configuring standard IPv4 access control lists to permit or deny traffic based on source IP addresses and applying ACLs to router interfaces.
 Day 35 – Extended ACLs: Practiced configuring extended IPv4 access control lists to filter traffic by source, destination, protocol, and port number, then applying them to router interfaces.
 Day 36 – CDP & LLDP: Practiced using Cisco Discovery Protocol (CDP) and Link Layer Discovery Protocol (LLDP) to discover neighboring network devices and view information about their connected interfaces.
+Day 37 – NTP: Practiced configuring Network Time Protocol to synchronize device clocks, including NTP server/client roles, time zones, and verifying synchronization.
