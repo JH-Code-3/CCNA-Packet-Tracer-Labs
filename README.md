@@ -39,3 +39,5 @@ Day 34 – Standard ACLs: Practiced configuring standard IPv4 access control lis
 Day 35 – Extended ACLs: Practiced configuring extended IPv4 access control lists to filter traffic by source, destination, protocol, and port number, then applying them to router interfaces.
 Day 36 – CDP & LLDP: Practiced using Cisco Discovery Protocol (CDP) and Link Layer Discovery Protocol (LLDP) to discover neighboring network devices and view information about their connected interfaces.
 Day 37 – NTP: Practiced configuring Network Time Protocol to synchronize device clocks, including NTP server/client roles, time zones, and verifying synchronization.
+Day 38 – DNS: Practiced how Domain Name System (DNS) resolves hostnames to IP addresses and configured basic DNS settings to test name resolution across a network.
+Day 39 – DHCP: Practiced how DHCP automatically assigns IP addresses and learned the DORA process, DHCP relay, and basic DHCP server/client configuration.
