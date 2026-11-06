@@ -41,3 +41,4 @@ Day 36 – CDP & LLDP: Practiced using Cisco Discovery Protocol (CDP) and Link L
 Day 37 – NTP: Practiced configuring Network Time Protocol to synchronize device clocks, including NTP server/client roles, time zones, and verifying synchronization.
 Day 38 – DNS: Practiced how Domain Name System (DNS) resolves hostnames to IP addresses and configured basic DNS settings to test name resolution across a network.
 Day 39 – DHCP: Practiced how DHCP automatically assigns IP addresses and learned the DORA process, DHCP relay, and basic DHCP server/client configuration.
+Day 40 – SNMP: Practiced configuring Simple Network Management Protocol (SNMP) and learned how network devices can be monitored and managed using SNMP managers and agents.
