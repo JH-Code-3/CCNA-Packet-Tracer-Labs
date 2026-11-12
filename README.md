@@ -43,3 +43,4 @@ Day 38 – DNS: Practiced how Domain Name System (DNS) resolves hostnames to IP 
 Day 39 – DHCP: Practiced how DHCP automatically assigns IP addresses and learned the DORA process, DHCP relay, and basic DHCP server/client configuration.
 Day 40 – SNMP: Practiced configuring Simple Network Management Protocol (SNMP) and learned how network devices can be monitored and managed using SNMP managers and agents.
 Day 45 – NAT (Part 2): Practiced configuring Dynamic NAT and PAT (NAT Overload) to translate private IP addresses for external network access.
+Day 46 – QoS (Part 1): Learned how Quality of Service prioritizes important network traffic and covered voice VLANs, IP phones, PoE, queuing, and congestion management.
